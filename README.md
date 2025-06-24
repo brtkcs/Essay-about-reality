@@ -19,3 +19,7 @@ That's all I can say about myself in this essay, I am currently a non-practicing
 While I was searching, this question arose in me.
 
 Feel free to join me, comment, I am of course happy to accept criticism.
+
+#hu
+    A magyar verzióért kérlek az alábbi linkeket használjátok:
+    [Profile - HackMD](https://hackmd.io/@brtkcs)

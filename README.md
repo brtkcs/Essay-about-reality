@@ -3,7 +3,7 @@ title: README
 
 ---
 
-# Hello Word.
+# Hello World.
 
 This repo is the home of my public essay.
 

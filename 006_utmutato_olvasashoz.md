@@ -2,7 +2,7 @@
 title: 006 – Útmutató az olvasáshoz és használathoz
 created: 2025-06-24
 tags: [disszertáció, útmutató, olvasási segédlet, navigáció]
-description: Technikai és értelmezési támpontok az egyéni kutatási anyag értő olvasásához.
+description: "Technikai és értelmezési támpontok az egyéni kutatási anyag értő olvasásához."
 ---
 # 006 – Útmutató az olvasáshoz és használathoz
 
@@ -27,6 +27,7 @@ Ha kutató, oktató, hallgató vagy:
 A fő egységek:
 
 - `001` Teoretikus és módszertani keret
+- `002` Módszertani alapok
 - `003` Elemzési segédlet (olvasási irányok)
 - `004` A négy fő kérdés és azok gyakorlati kibontása
   - 004.1 Mit érzékelek valójában?
@@ -46,7 +47,7 @@ A fő egységek:
 - A fájlokat **.md (Markdown)** formátumban kapod meg.  
   Ezek olvashatók bármilyen jegyzetkezelő alkalmazással (pl. Obsidian, Typora).
 
-- Egyes fejezetekben utalás történik:
+- Egyes fejezetekben utalás történik majd:
   - saját podcast epizódokra (nem szükséges előzetes ismeret),
   - kézi naplókra (amelyek nem részei a publikált verziónak),
   - hanganyagokra (elérhetőség igény szerint).
@@ -59,6 +60,5 @@ Ez az anyag nem teljes, hanem **nyitott rendszer**.
 A cél nem az, hogy végső állításokat tegyen – hanem hogy **gondolkodásra és együttlátásra hívjon**.
 
 Ha van észrevételed, tapasztalatod, vagy csak kapcsolódni szeretnél:
-a párbeszéd része vagy.  
+a párbeszéd része vagy — bátran kommentálj. 👇  
 Köszönöm, hogy elolvasod.
-

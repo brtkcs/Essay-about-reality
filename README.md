@@ -2,24 +2,49 @@
 title: README
 
 ---
+# About Reality
 
-# Hello World.
+Welcome.  
+This repository contains the draft of an evolving public essay — part of a broader project that explores perception, epistemology, and personal experimentation.
 
-This repo is the home of my public essay.
+📌 The text is also available on HackMD for collaborative commenting:  
+👉 [HackMD Link](https://hackmd.io/@brtkcs)
 
-My plan is to make it a public document that anyone can contribute to. 
-I encourage you to do so, which you can do through [HackMD](https://hackmd.io/) at the following link:
+🎙 The accompanying podcast, *Tinitus Napló*, offers an audio-based, experimental counterpart:  
+👉 [Podcast Website](https://tinnitus.pods-blitz.org/)
 
-https://hackmd.io/@0_sXroXHRBy9lhsTud9s-w/S1cpavAXlg
+---
 
-I find it extremely important that there is a universal concept of reality perception.
-Although I am not a scientist or researcher myself, I believe that there is an increasing need for something like this.
+## What is this project about?
 
-That's all I can say about myself in this essay, I am currently a non-practicing artist who is trying to learn about existence.
-While I was searching, this question arose in me.
+This is not a finished academic paper.  
+It is an open-ended inquiry — both personal and public — into how we come to understand reality, especially when perception is altered or unstable.
 
-Feel free to join me, comment, I am of course happy to accept criticism.
+The project blends:
 
-#hu
-    A magyar verzióért kérlek az alábbi linkeket használjátok:
-    [Profile - HackMD](https://hackmd.io/@brtkcs)
+- subjectivity and methodological caution,  
+- philosophical reflection and creative process,  
+- slow thinking and embodied knowledge.
+
+You are welcome to contribute with:
+
+- comments and suggestions on HackMD,  
+- critical questions, personal reflections, or shared experiences.
+
+---
+
+## Licensing
+
+All materials in this repository are published under the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).
+
+---
+
+## 🇭🇺 Magyar verzió
+
+A szöveg magyar nyelvű változata, fejezetekre bontva, itt érhető el:  
+👉 [HackMD profil](https://hackmd.io/@brtkcs)
+
+---
+
+Thank you for reading.  
+This is a slow-growing, living document. You are part of it now.

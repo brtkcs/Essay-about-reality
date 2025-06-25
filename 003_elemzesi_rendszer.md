@@ -53,3 +53,13 @@ Javasolt olvasási stratégiák:
 
 A cél nem pusztán tudás átadása, hanem **egy gondolkodási tér megnyitása** – ahol a megértés nemcsak tartalom, hanem gyakorlat is.
 
+---
+
+### 🟡 Mit gondolsz erről a részről?
+
+Ha van kérdésed, reflexiód vagy ellenvetésed — bátran kommentálj. 👇  
+Minden hozzászólás segít tisztábban látni, tovább gondolni.
+
+Köszönöm, hogy elolvastad.
+
+

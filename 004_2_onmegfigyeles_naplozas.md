@@ -67,6 +67,16 @@ A saját élmények rögzítése, újracímkézése és rendszerezése révén e
 Ez az út nem gyors, nem is látványos – de **építő**.  
 És ez az, ami a tudást valóban használhatóvá teszi: nemcsak információként, hanem életvezetési viszonyulásként.
 
+## Példák, párhuzamos gyakorlatok
+
+A saját önmegfigyelésem kezdetben nem tudományos igényességgel zajlott, inkább tapasztalati tanulásként – figyelve arra, hogy mi csökkenti vagy növeli a tinnitus intenzitását.  
+Innen fejlődött ki a naplózás és a fokozatos rendszerezés igénye.
+
+> „Nem akartam kontrollálni, csak megfigyelni.” – ez a hozzáállás jól jellemzi a 059-es podcast epizódomat is, amelyben a tinnitus nem ellenségként, hanem „barátként” kezd el megjelenni.
+
+📎 Lásd bővebben: [007 – Audio-reflexiók: A podcast és a disszertáció párbeszéde](007_audio_reflexio_podcast.md)
+
+Ez az élő példa jól mutatja, hogyan válik az önmegfigyelés nemcsak gyakorlattá, hanem szemléletformáló tényezővé.
 ---
 
 ### 🟡 Mit gondolsz erről a részről?

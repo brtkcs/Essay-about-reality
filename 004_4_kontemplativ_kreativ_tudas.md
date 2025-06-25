@@ -64,6 +64,17 @@ A megértés anyaga itt nemcsak gondolat, hanem érzékelés, hang, forma, idő 
 
 És éppen ettől lesz a tudás nemcsak igaz – hanem **valódi**.
 
+## Megértés, mint viszonyváltás
+
+A megértés aktusa nemcsak új információ befogadása, hanem a már ismert élmény újraértelmezése is lehet.  
+Egy belső történés – például a tinnitus jelenléte – másként mutatkozik meg, ha változik az, ahogyan viszonyulunk hozzá.
+
+> „Most már nem ellenfélként tekintek a zajra, hanem próbálom úgy látni, mint egy barát, aki túl sokat beszél.”  
+> *(Podcast 059 – 10.02.25)*
+
+Ez a kijelentés jól példázza, hogyan válhat egy zavaró tényező az önismeret, sőt az együttműködés médiumává – ha a viszonyulás (és nem feltétlenül maga a jelenség) változik meg. Az új viszony új megértési mezőt nyit, ezáltal a tudás nemcsak bővül, hanem **strukturálisan átrendeződik**.
+
+📎 Kapcsolódó részletesebb elemzés: [007 – Audio-reflexiók: A podcast és a disszertáció párbeszéde](007_audio_reflexio_podcast.md)
 ---
 
 ### 🟡 Mit gondolsz erről a részről?

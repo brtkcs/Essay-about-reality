@@ -2,7 +2,7 @@
 title: 004.3 – Mit jelent közös nyelvet találni?
 created: 2025-06-24
 tags: [disszertáció, interakció, beszéd, podcast, kommunikáció, episztemológia]
-description: A saját élmények megosztása és a közös nyelv keresése mint episztemikus kihívás és lehetőség.
+description: "A saját élmények megosztása és a közös nyelv keresése mint episztemikus kihívás és lehetőség."
 ---
 
 # 004.3 – Mit jelent közös nyelvet találni?
@@ -61,3 +61,13 @@ Ha a tapasztalat egyedi, a nyelvnek is alkalmazkodnia kell hozzá –
 de ez nem zárja ki a megoszthatóságot, csak **munkát kíván**: figyelmet, építkezést, visszacsatolást.
 
 A beszéd, a hang, a podcast mint forma tehát **nem mellékes eszköz**, hanem **a tudás megosztásának és alakításának egyik legfontosabb terepe**.
+
+---
+
+### 🟡 Mit gondolsz erről a részről?
+
+Ha van kérdésed, reflexiód vagy ellenvetésed — bátran kommentálj. 👇  
+Minden hozzászólás segít tisztábban látni, tovább gondolni.
+
+Köszönöm, hogy elolvastad.
+

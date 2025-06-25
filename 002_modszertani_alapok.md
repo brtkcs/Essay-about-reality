@@ -25,7 +25,7 @@ A második szakaszban tudatos önmegfigyelés és rögzítés kezdődött. A nap
 
 ## III. Kritikai szakasz – Tudás társadalmasítása és átadhatósága
 
-*Epistemológiai háttér:* Kritikai episztemológia  
+*Episztemológiai háttér:* Kritikai episztemológia  
 *Gyakorlati működés:* tudás átadása, kondenzálása – podcast, kurzusajánlás
 
 A harmadik szakaszban a cél a szubjektív tapasztalat közérthetővé tétele lett. A szerző különböző nyilvánosan elérhető forrásokat (MOOC-kurzusok, filozófiai és pszichológiai irodalom) dolgozott fel, majd ezek tartalmát saját reflexióival ötvözve adta tovább podcast formájában. Ez a tudásmegosztás kritikai gesztus is egyben, amely megkérdőjelezi az intézményes tudásformák kizárólagosságát.

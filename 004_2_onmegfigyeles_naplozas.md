@@ -36,7 +36,7 @@ A cél nem információhalmozás, hanem **jelentésadás a tapasztalatnak**.
 ## A fokozatosság erénye: organikus rendszerépítés
 
 A rendszeres naplózás nem egy előre kitalált séma mentén épült, hanem **organikusan alakult ki**.  
-Ez a fokozatosság nem hiba, hanem **epistemikus erény**:  
+Ez a fokozatosság nem hiba, hanem **episztemikus erény**:  
 türelem, figyelem, kitartás, megengedés.
 
 A módszer lassan fejlődött:

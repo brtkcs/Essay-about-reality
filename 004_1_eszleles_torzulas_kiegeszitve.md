@@ -2,7 +2,7 @@
 title: 004.1 – Mit érzékelek valójában?
 created: 2025-06-24
 tags: [disszertáció, érzékelés, torzulás, tinnitus, episztemológia]
-description: Az érzékelés torzulásának egyéni megtapasztalása mint tudásképző aktus. Az észlelés megkérdőjelezése konstruktív és kontemplatív episztemológiai keretben.
+description: "Az érzékelés torzulásának egyéni megtapasztalása mint tudásképző aktus. Az észlelés megkérdőjelezése konstruktív és kontemplatív episztemológiai keretben."
 ---
 
 # 004.1 – Mit érzékelek valójában?
@@ -54,3 +54,12 @@ Ez különösen fontos ott, ahol az érzékelés **nem stabil**: például tinni
 Egy ilyen helyzet nemcsak fizikai, hanem episztemológiai kérdés is: **mennyire bízhatok abban, amit „érzékelek”?**
 
 E kérdések nyitják meg az utat a konstruktív és kontemplatív megközelítés felé: nem az a cél, hogy „helyreállítsam az érzékelést”, hanem hogy **megértsem a változás természetét** – és azt, mit taníthat nekem önmagamról.
+
+---
+
+### 🟡 Mit gondolsz erről a részről?
+
+Ha van kérdésed, reflexiód vagy ellenvetésed — bátran kommentálj. 👇  
+Minden hozzászólás segít tisztábban látni, tovább gondolni.
+
+Köszönöm, hogy elolvastad.

@@ -2,7 +2,7 @@
 title: 005 – Visszatekintés és reflexió
 created: 2025-06-24
 tags: [disszertáció, összegzés, reflexió, személyes tudás, episztemológia]
-description: A négy kérdésen keresztüli önvizsgálat tanulságai és a megértés alakulása.
+description: "A négy kérdésen keresztüli önvizsgálat tanulságai és a megértés alakulása."
 ---
 
 # 005 – Visszatekintés és reflexió
@@ -51,3 +51,13 @@ A cél nem a lezárás, hanem a **továbbgondolás lehetőségének megnyitása*
 
 Ha úgy érzed, kapcsolódni tudsz hozzá – akár olvasóként, akár alkotóként –,  
 akkor ez a disszertáció **már betöltötte az értelmét**.
+
+---
+
+### 🟡 Mit gondolsz erről a részről?
+
+Ha van kérdésed, reflexiód vagy ellenvetésed — bátran kommentálj. 👇  
+Minden hozzászólás segít tisztábban látni, tovább gondolni.
+
+Köszönöm, hogy elolvastad.
+

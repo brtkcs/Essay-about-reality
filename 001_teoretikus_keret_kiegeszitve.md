@@ -59,3 +59,13 @@ A klasszikus filozófia (pl. Descartes) a valóság érzékelésének megbízhat
 Ez az elképzelés rokon a konstruktív episztemológia szemléletével, amely szerint a tudás nem egy előre adott rend felfedezése, hanem aktív konstrukció – és az érzékelés is ilyen: aktív, célirányos modellépítés.
 
 Ez a disszertáció tehát nem tagadja a tudományos háttér relevanciáját, hanem **egy másik szemszögből kapcsolódik hozzá**: a személyes tapasztalat és reflexió szintjén keresi azt a mezsgyét, ahol az érzékelésből értelmezés, majd tudás lesz.
+
+
+---
+
+### 🟡 Mit gondolsz erről a részről?
+
+Ha van kérdésed, reflexiód vagy ellenvetésed — bátran kommentálj. 👇  
+Minden hozzászólás segít tisztábban látni, tovább gondolni.
+
+Köszönöm, hogy elolvastad.

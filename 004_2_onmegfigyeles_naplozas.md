@@ -6,7 +6,7 @@ tags:
   - önmegfigyelés
   - naplózás
   - erényepisztemológia
-description: tudás személyes forrásai az önmegfigyelés, naplózás és fokozatos reflexió mint tudásképző aktus.
+description: "A tudás személyes forrásai az önmegfigyelés, naplózás és fokozatos reflexió mint tudásképző aktus."
 ---
 
 # 004.2 – Mit tanulhatok magamtól?
@@ -66,3 +66,12 @@ A saját élmények rögzítése, újracímkézése és rendszerezése révén e
 
 Ez az út nem gyors, nem is látványos – de **építő**.  
 És ez az, ami a tudást valóban használhatóvá teszi: nemcsak információként, hanem életvezetési viszonyulásként.
+
+---
+
+### 🟡 Mit gondolsz erről a részről?
+
+Ha van kérdésed, reflexiód vagy ellenvetésed — bátran kommentálj. 👇  
+Minden hozzászólás segít tisztábban látni, tovább gondolni.
+
+Köszönöm, hogy elolvastad.

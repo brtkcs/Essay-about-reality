@@ -4,7 +4,7 @@ created: 2025-06-24
 tags: [disszertáció, episztemológia, kontempláció, kreativitás, reflexió]
 description: "A doktori dolgozat bevezető fejezete, amely felvázolja a szubjektív tapasztalat és a kreatív megértés kapcsolatát, valamint az alternatív tudásformák lehetőségét torzított érzékelés esetén."
 ---
-
+# Bevezetés
 ## 🧭 Nyitott jegyzet a közös gondolkodásra
 
 Ez a dokumentum egy készülő disszertáció munkaváltozata.  
@@ -23,7 +23,6 @@ Nem formális lektorálást várok, hanem visszajelzéseket, amelyek:
 - rámutatnak homályos pontokra,  
 - vagy új kérdéseket vetnek fel.  
 
-# Bevezetés
 
 A valóság megértése régóta központi törekvése az emberi gondolkodásnak. A tudományos módszerek évszázadok óta szolgálják ezt a célt azzal az igénnyel, hogy objektív, általánosítható tudást hozzanak létre. Ugyanakkor a megismerés folyamata – különösen a szubjektív tapasztalat felől nézve – nem mindig illeszthető be ezekbe a normatív keretekbe. A jelen dolgozat azt a kérdést járja körül, hogy miként értelmezhető a tudás akkor, ha annak forrása egyetlen személy belső tapasztalata, ráadásul olyan esetben, amikor az érzékelés torzításokon keresztül valósul meg.
 

@@ -1,5 +1,5 @@
 ---
-title: Bevezetés
+title: 001 - Bevezetés
 created: 2025-06-24
 tags: [disszertáció, episztemológia, kontempláció, kreativitás, reflexió]
 description: "A doktori dolgozat bevezető fejezete, amely felvázolja a szubjektív tapasztalat és a kreatív megértés kapcsolatát, valamint az alternatív tudásformák lehetőségét torzított érzékelés esetén."
